@@ -38,8 +38,6 @@ public class AlertJSPopup {
 		//only one oppup on screen at same time and only one text field on one popup at one time 
 	//write use case for https://mail.rediff.com/cgi-bin/login.cgi
 	
-	
-		p
 		
 		
 		
